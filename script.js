@@ -1,1 +1,1 @@
-consle.log（”初めてのJavaScript");
+consle.log（"初めてのJavaScript");
