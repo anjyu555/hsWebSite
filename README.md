@@ -12,3 +12,9 @@
 `html`   
 `gem install hoge`  
 >. 引用
+（2）HTMLファイルのheadタグ内にコードを書き込む 次に、アイコンやファビコンを表示させたいページのheadタグ内に、次のコードを記述します。
+
+<link rel=”apple-touch-icon” href=”./apple-touch-icon.png” sizes=”180×180″>
+<link rel=”icon” type=”image/x-icon” href=”./favicon.ico”>
+
+上がアイコンの設定、下がファビコンの設定です。
