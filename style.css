@@ -1,11 +1,11 @@
 header{
-    background-color: green;
+    color: green;
 }
 body{
     background-color: rgba(245, 245, 220, 0.754);
 }
 hooter{
-    background-color: red;
+    color: red;
 }
 p{color:rgb(205, 243, 145);
 }
