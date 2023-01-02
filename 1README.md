@@ -18,3 +18,6 @@
 <link rel=”icon” type=”image/x-icon” href=”./favicon.ico”>
 
 上がアイコンの設定、下がファビコンの設定です。
+◉
+♡
+⌘
